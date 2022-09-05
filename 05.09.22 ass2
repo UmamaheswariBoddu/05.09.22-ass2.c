@@ -1,0 +1,17 @@
+#include <stdio.h>
+void main()
+{
+   int i,n;
+   printf("Enter values : ");
+   scanf("%d",&n);
+   printf("\nThe %d  numbers are:");
+}
+_____________________________________
+OUTPUT: 
+       Enter values : 5
+       The 5 numbers are:
+       1 
+       2
+       3
+       4
+       5
